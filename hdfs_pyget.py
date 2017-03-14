@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# written by HyunMin-kor 
+# written by AweSong-kor 
 #---------------------------------------------------------------------- -------
 # Usage  							              |
 # python pyget.py URL : Download a file from URL to HDFS                      |
