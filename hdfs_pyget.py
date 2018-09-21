@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # written by AweSong-kor 
 #---------------------------------------------------------------------- -------
-# Usage  							              |
-# python pyget.py URL : Download a file from URL to HDFS                      |
-# python pyget.py URL FILENAME : DOWNload a file from URL to HDFS as FILENAME |
+# Usage  							              
+# python pyget.py URL : Download a file from URL to HDFS                      
+# python pyget.py URL FILENAME : DOWNload a file from URL to HDFS as FILENAME 
 #------------------------------------------------------------------------------
 import pydoop.hdfs as hdfs
 import sys
